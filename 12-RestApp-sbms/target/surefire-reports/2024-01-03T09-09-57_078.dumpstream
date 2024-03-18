@@ -1,0 +1,5 @@
+# Created at 2024-01-03T09:09:57.500
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Raju_STS_36SBMS_Batch_WRKS\12-RestApp-sbms\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
